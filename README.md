@@ -1,22 +1,23 @@
 <h1 align="center">👾Hey! I´m Manuela Dalsoto👾<br>What´s up?</h1>
 
 ###
-
-<h4 align="center">I'm passionate about exploring ways to solve real-world problems through Python programming, working on building interesting projects and solving real world problems. I'm constantly seeking exciting challenges and opportunities to expand my knowledge!</h4>
-
-###
-
-<h2 align="left">Fun facts</h2>
+<h2 align="left">💫About me!</h2>
+<h3 align="center">I'm passionate about exploring ways to solve real-world problems through Python programming, working on building interesting projects and solving real world problems. I'm constantly seeking exciting challenges and opportunities to expand my knowledge!</h3>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Languages: Fluent in Portuguese and pretty confident in English. Always looking for connections around the world.</p>
+<h2 align="left">✨Fun facts</h2>
 
 ###
 
-<h2 align="left">Language Tools</h2>
+<p align="left">📚 Languages: Fluent in Portuguese and pretty confident in English. Always looking for connections around the world.<br>🎯Goals: I want to become a software developer, who deliver good works and develop good projects with my knowledge and commitment!</h3>
 
 ###
+
+<h2 align="left">🕹️Language Tools</h2>
+
+###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -36,4 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
