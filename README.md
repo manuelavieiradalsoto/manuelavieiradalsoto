@@ -7,7 +7,7 @@
 <h3> [PT-BR]</h3>
 Me chamo <a href="https://github.com/manuelavieiradalsoto"><strong>Manuela Vieira Dalsoto</strong></a>, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando o curso de <strong>Eletrônica</strong> realizado na <a href="https://www.liberato.com.br/"><strong>Fundação Liberato</strong></a>. Sou apaixonada por tecnologia e programação, onde busco aprofundar meus conhecimentos e me tornar uma desenvolvedora Front-end.
 
-<h4> [EN-US]</h4>
+<h3> [EN-US]</h3>
 My name is <a href="https://github.com/manuelavieiradalsoto"><strong>Manuela Vieira Dalsoto</strong></a>, I'm 19 years old and from Rio Grande do Sul. I'm currently taking the <strong>Eletronics</strong> course held at <a href="https://www.liberato.com.br/"><strong>Fundação Liberato</strong></a>. I am passionate about technology and programming, where I seek to deepen my knowledge and become a Front-end developer.
 
 <h5>
