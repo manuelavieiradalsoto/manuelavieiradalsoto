@@ -13,7 +13,7 @@ My name is <a href="https://github.com/manuelavieiradalsoto"><strong>Manuela Vie
 <h5>
   <p align="left">
       <a href="https://github.com/manuelavieiradalsoto?tab=followers">
-         <img alt="Seguidores" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/manuelavieiradalsoto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Inscritos&logoColor=white"/></a>
+         <img alt="Seguidores" title="Inscritos" src="https://custom-icon-badges.demolab.com/github/followers/manuelavieiradalsoto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Inscritos&logoColor=white"/></a>
       <a href="https://github.com/manuelavieiradalsoto?tab=repositories&sort=stargazers">
          <img alt="Estrelas Totais" title="Estrelas Totais" src="https://custom-icon-badges.demolab.com/github/stars/manuelavieiradalsoto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&&label=Estrelas"/></a>
    </p>
