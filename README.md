@@ -1,39 +1,21 @@
-<h1 align="center">👾Hey! I´m Manuela Dalsoto👾<br>What´s up?</h1>
+## 👩‍💻 Manuela Dalsoto
 
-###
-<h2 align="left">💫About me!</h2>
-<h3 align="center">I'm passionate about exploring ways to solve real-world problems through Python programming, working on building interesting projects and solving real world problems. I'm constantly seeking exciting challenges and opportunities to expand my knowledge!</h3>
+** Cursando o curso técnico de eltrônica na Fundação Escola Técnica Liberato Salzano Vieira da Cunha **
+[PT-BR]
+Me chamo "[Manuela Vieira Dalsoto](https://github.com/manuelavieiradalsoto)", tenho 19 anos e sou natural do Rio Grande do Sul. 
+Atualmente estou cursando o curso de eletrônica realizado na "[Fundação Liberato](https://www.liberato.com.br/)".
+Sou apaixonada por tecnologia e programação, onde busco aprofundar meus conhecimentos
+e me tornar uma desenvolvedora Front-end.
 
-###
+[EN-US]
+My name is "[Manuela Vieira Dalsoto](https://github.com/manuelavieiradalsoto)", I'm 19 years old and from Rio Grande do Sul. 
+I'm currently taking the electronics course held at "[Fundação Liberato](https://www.liberato.com.br/)".
+I am passionate about technology and programming, where I seek to deepen my knowledge
+and become a Front-end developer.
 
-<h2 align="left">✨Fun facts</h2>
-
-###
-
-<p align="left">📚 Languages: Fluent in Portuguese and pretty confident in English. Always looking for connections around the world.<br>🎯Goals: I want to become a software developer, who deliver good works and develop good projects with my knowledge and commitment!</h3>
-
-###
-
-<h2 align="left">🕹️Language Tools</h2>
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
+ <p align="left">
+      <a href="https://github.com/manuelavieiradalsoto?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/manuelavieiradalsoto?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
