@@ -55,6 +55,14 @@ My name is <a href="https://github.com/manuelavieiradalsoto"><strong>Manuela Vie
   width="30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
     />
+ <img 
+  align="left"
+  alt="C#"
+  title="C#"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    />
+    
   <img 
   align="left"
   alt="Python"
