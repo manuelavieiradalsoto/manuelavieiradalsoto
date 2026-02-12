@@ -2,7 +2,7 @@
 
 <p align="center">
  <h3> Cursando o 4° ano do curso técnico de eltrônica na Fundação Escola Técnica Liberato Salzano Vieira da Cunha</h3>
- <h3>Estagiando como Desenvolvedora de Software de Alto Nível na <a href="https://www.liberato.com.br](https://www.altus.com.br"><strong>Altus Sistemas de Automação</strong></a>!</h3>
+ <h3>Estagiando como Desenvolvedora de Software de Alto Nível na <a href="https://www.altus.com.br"><strong>Altus Sistemas de Automação</strong></a>!</h3>
 </p>
 
 <h3> [PT-BR]</h3>
