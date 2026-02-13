@@ -95,23 +95,8 @@ My name is <a href="https://github.com/manuelavieiradalsoto"><strong>Manuela Vie
    <br/>
    <br/>
    
-   <h2>📊 Estatísticas</h2>
-  <img
-   align="left"
-  alt="Status GitHub"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=manuelavieiradalsoto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-   align="left"
-  alt="Status GitHub"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelavieiradalsoto&theme=tokyonight&custom_title=Tecnologias&langs_count=9&include_all_commits=true"
-  />
+
   
-          
-    
-          
           
           
 
